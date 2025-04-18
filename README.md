@@ -16,7 +16,8 @@ This project demonstrates a full CI/CD pipeline using GitHub Actions to run Cypr
 
 ## 🖼️ Screenshot
 
-![App Screenshot](./screenshot.png)
+![App Screenshot](screenshot.png)
+
 
 ## 📂 Tech Stack
 
